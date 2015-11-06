@@ -1,0 +1,30 @@
+{
+	"name": "simples-engineer",
+	"version": "1.0.0",
+	"description": "simpleS tool to connect incompatible template engines",
+	"keywords": [
+		"engine",
+		"simples",
+		"template",
+		"tool"
+	],
+	"homepage": "https://github.com/micnic/simples-engineer",
+	"bugs": {
+		"url": "https://github.com/micnic/simples-engineer/issues",
+		"email": "micnic90@gmail.com"
+	},
+	"license": "GPL-3.0",
+	"author": {
+		"name": "Micleusanu Nicu",
+		"email": "micnic90@gmail.com",
+		"url": "https://github.com/micnic"
+	},
+	"main": "index",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/micnic/simples-engineer"
+	},
+	"engines": {
+		"node": ">=0.10"
+	}
+}
